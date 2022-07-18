@@ -1,0 +1,177 @@
+{
+  "hydroponic": [
+    {
+      "id": "a1",
+      "title": "Wick System",
+      "description1": "The wick system is easily the simplest type of hydroponic system that you can use to grow plants, which means that it can be used by practically anyone. The wick system is notable for not using aerators, pumps, or electricity. In fact, it’s the only hydroponic system that doesn’t require the use of electricity. With the majority of wick systems, the plants are placed directly within an absorbent substance like perlite or vermiculite. Nylon wicks are positioned around the plants before being sent straight down into the nutrient solution.",
+      "description2": "If you’re thinking about using a wick hydroponic system to grow plants, the simple nature of this system means that the plants are unable to obtain a significant amount of nutrients. As such, the system is ideal for small garden plants and herbs. Any plant that doesn’t require a substantial amount of water will grow well in this specific system. While this system is fantastic for smaller plants, you’ll want to avoid growing plants like peppers and tomatoes. These plants are considered to be heavy-feeding plants, which means that they require more nutrients than the wick system will be able to provide. Another negative aspect of this growing system is that water and nutrients aren’t absorbed evenly, which could lead to the buildup of toxic mineral salts. When you use this system, make sure that you flush any extra nutrients with fresh water every 1-2 weeks.",
+      "images": "https://constantdelights.com/wp-content/uploads/2020/11/AdobeStock_74288358-1.jpg",
+      "setupImg": "https://www.maximumyield.com/images/uploads/wick-system-hydroponics-gardening.jpg",
+      "requirementsDesc":"Requirements for the Wick System",
+      "checked":false,
+      "requirements":[
+        {
+          "name":"The Wick",
+          "description": "This is the important part in the hydroponic wick system. The wick connects the grow tray and the reservoir.  The wick by capillary action takes the nutrients present in the water to the plants in the grow tray. Any type of thread is excellent as a wick the most common wick is cotton thread but the cotton thread can form mould in long running, so the alternative here is to use nylon rope which doesn’t form mould easily. The grow tray is fixed with one or more wicks depending on the size of the grow tray or the number of plants in the tray. Generally the usage is like one wick for one plant. The one end of wick is fixed near the root of the plants and the other end is inside the reservoir.",
+          "step":"Step 1 - Setting up the Wick",
+          "reqImg":"https://growwithoutsoil.com/wp-content/uploads/2020/12/Wick-System.jpg"
+        },
+        {
+          "reqImg":"https://gardeningheavn.com/wp-content/uploads/2019/05/ht003-bokashi-bran-original-imaf957ezba5kh66-278x300.jpeg",
+          "step":"Step 2 - Setting up the Grow Tray",
+          "description":"The grow tray will contain the growing medium and the plant; the growing medium as this is hydroponics is not soil we can use many materials like leca, coco coir, vermiculite or perlite etc. The growing medium should have some capillary action to absorb the nutrient from the wick. The growing medium should also not retain too much water. Unlike other hydroponic systems here there is no need for a net pot to grow the plant. The plants are directly fixed in the growing medium in the grow tray. The grow tray should be large enough to accommodate the plant comfortably as it grows. The growing media should also be flushed with fresh water on a regular basis as there might be build up of salts in medium due to the nutrients present in the water from reservoir. Too much salt build up can be dangerous to the plants as it increase the toxicity of the growing medium.",
+          "name":"The Grow Tray"
+        },
+        {
+          "reqImg":"https://gardeningheavn.com/wp-content/uploads/2019/05/10.jpg",
+          "step":"Step 3 - Setting the Reservoir",
+          "description":"The reservoir is a large container containing the nutrient rich water. The reservoir should be large enough to meet the water requirement of the plants and also should always be replenished, when the level of water decrease. The level of water should not go too low as it is best that the nutrient water don’t travel too long a distance to reach the growing medium and roots. The reservoir should also be cleaned in a regular basis as there can be algae growth or other micro organism growths. The nutrient water should also be replenished as the nutrients amount will reduce during time as the plant absorbs the nutrients.",
+          "name":"Reservoir"
+        },
+
+        {
+          "reqImg":"https://gardeningheavn.com/wp-content/uploads/2019/05/best-hydroponic-air-pump.jpg",
+          "step":"Step 4 - Setting up the Air pump",
+          "description":"The air pump commonly used can be that of the aquarium type. The air pump pushes air through tube to the air stone kept at the end of the tube. The air stone when inserted into the water creates lot of bubbles which keeps the water circulating . This is not a mandatory requirement for the wick system but can be used to just keep the water circulation and also to increase the oxygen level in the water.",
+          "name":"Air pump"
+        }
+      ],
+      "video": "https://www.youtube.com/watch?v=kdfrEJ62IQY"
+
+    },
+
+    
+    {
+      "id": "a2",
+      "title": "Deep Water Culture",
+      "description1": "A water culture system is another highly simplistic type of hydroponic system that places the roots of the plant directly into the nutrient solution. While the wick system places certain materials between the plants and the water, the water culture system bypasses this barrier. The oxygen that the plants need to survive is sent into the water by a diffuser or air stone. When you use this system, keep in mind that the plants should be secured into their proper position with net pots.",
+      "description2": "The best aspect of the water culture system is that the plant roots are placed directly into the nutrient system, which means that the nutrients can be easily absorbed by the plants. Because of the direct access to nutrients and oxygen, plants that are grown with the water culture method will grow very quickly. The best aspects of the water culture system is that it’s very easy to make and works well with any kind of plant. Even large plants with sizable foot systems will grow quickly with this method. the only potential issue with this hydroponic system is the development of root diseases, which is caused by dirty growing conditions.",
+      "images": "https://www.epicgardening.com/wp-content/uploads/2014/10/deep-water-culture.jpg",
+      "setupImg": "https://www.maximumyield.com/images/uploads/wick-system-hydroponics-gardening.jpg",
+      "requirementsDesc":"The Basic Requirements to setup the Wick System",
+      "checked":false,
+      "requirements": [
+        {
+          "reqImg": "https://www.citygreens.in/Blog%20Images/Starter-Kit-8.jpg",
+          "step": "Step 1 - Seed Germination",
+          "description": "Germinate the seeds. You can go with germinating in standard seed germination trays or net-pots. The advantage of using net-pots is that you will not need to transplant the sapling (and hence minimize the chances of damaging roots or transplant shock) while shifting it to the grow bed. ",
+          "name":"Grow Bed"
+        },
+        {
+          "reqImg": "https://www.citygreens.in/Blog%20Images/DWC%20Bed%20Prep.jpg",
+          "step": "Step 2 - Preparation of Grow Bed",
+          "description": "Prepare grow beds or containers in which you will be growing the crops. Ensure that the container or bed is waterproof, and there is no leakage. (Unlike the normal pots with drainage holes, in DWC, you want the water to stay in the pot and used up completely). Do test the grow bed for any leakages using plain water.",
+          "name":"Preparing"
+        },
+        {
+          "reqImg": "https://www.citygreens.in/Blog%20Images/Styrofoam%20with%20Holes.jpg",
+          "name": "Lid",
+          "description": "Make a sufficient number of holes in the container lid. The hole size should be such that it can easily hold the structure that will be housing the sapling. You can go for standard 2-inch net-pots for the same. To keep costs low, you can also go for the common household sponge.  Make holes in the lid as per your requirement.",
+          "step":"Step 3 - Preparation of Lid"
+        },
+        {
+          "reqImg": "https://www.citygreens.in/Blog%20Images/NPK%20Original%20Small-1.jpg",
+          "step": "Step 4 - Preparation of Nutrient Solution",
+          "description": "Prepare the nutrient solution by adding the nutrients to water as per the manufacturer's instructions. If you are using our nutrients, follow the instruction set that comes along with the nutrients, or call our support desk for someone to guide you.",
+          "name":"Nutrition Liquids"
+        },
+        {
+          "reqImg": "https://www.citygreens.in/Blog%20Images/DWC%20Nutrient%20Fill.jpg",
+          "name": "Filling Water",
+          "description": "Fill the grow container with nutrient solution. Fill it to a level that it just touches the base of the structure housing the sapling (net-pots or sponge). This will ensure that plan roots get the water through wicking action, and you don't have to worry about watering daily.  Fill the grow container to such a level to ensure that plant roots never go dry. Slowly roots will emerge out of net-pot down, and even if the water level is going down, you will not need to worry about watering as roots will still be submerged in water.  As the nutrient solution level goes down, roots go further down to draw water, thus eliminating the need for frequent watering",
+          "step":"Step 5 - Readying the DWC System"
+        },
+        {
+          "reqImg":"https://www.citygreens.in/Blog%20Images/plant%201.png",
+          "step":"Step 6 - Transplant & enjoy watching your plants grow",
+          "description":"Transplant the sapling to a grow container, and you are done. Your Hydroponics DWC set up is alive and kicking.  Saplings transferred into grow beds, and here follows the results we got. We opened our center for interested hobbyists and gardeners to visit, and all our produce got sold in less than a week. ",
+          "name":""
+         }
+      ],
+      "video":"https://www.youtube.com/watch?v=1f3RlwWxIWo"
+     
+    },
+
+
+    {
+      "id": "a3",
+      "title": "Ebb and Flow (Flood and Drain)",
+      "description1": "The ebb and flow system is another popular hydroponic system that’s mainly used among home gardeners. With this type of system, the plants are positioned in a spacious grow bed that’s packed with a grow medium like rockwool or perlite. Once the plants are carefully planted, the grow bed will be flooded with a nutrient-rich solution until the water reaches a couple inches below the top layer of the grow medium, which ensures that the solution doesn’t overflow",
+      "description2": "The water pump that floods the grow bed is outfitted with a timer that will switch the pump off after a certain amount of time. When this occurs, the water will be drained from the grow bed and sent back into the pump. The ebb and flow system has been found to be effective at growing nearly all types of plants, which includes certain root vegetables like carrots and radishes. However, it’s recommended that you don’t use particularly large plants with this system. Because of how much space these plants will require, you may not be able to fit enough of the grow medium and nutrient solution into the grow bed with larger plants. The main issue with the ebb and flow system is that the pump controller can malfunction, which halts operation until the pump is fixed or replaced.",
+      "images": "https://cdn.shopify.com/s/files/1/0559/0286/3559/articles/20210307_101004_1_1024x1024.jpg?v=1629103634",
+      "setupImg": "https://www.maximumyield.com/images/uploads/wick-system-hydroponics-gardening.jpg",
+      "services": {},
+      "requirementsDesc":"Requirement for Setting up the Ebb And Flow",
+      "checked":false,
+      "requirements":[
+        {
+          "reqImg":"https://www.trees.com/wp-content/uploads/files/inline-images/Flooding-tray-design.png",
+          "step":"",
+          "description":"One othe essentialal parts of any hydroponic system is the reservoir. This contains water and nutrients that plants need. Normally, 1 reservoir is enough for most of the Ebb & Flow systems. If your structure is big, the reservoir must also grow respectively, or you need some extra reservoirs to grow enough nutrients to more plants.",
+          "name":"The Reservoir"
+        },
+        {
+          "reqImg":"https://www.trees.com/wp-content/uploads/files/inline-images/ebb-and-flow-timer-off.png",
+          "step":"Setting up the Submersible pump",
+          "description":"Submersible pond or fountain pump is vital in pumping water up into the grow tray. It is the heart of the Ebb & Flow system and you must take great care to purchase a pump with a strong flow rate in order to provide enough water for the growing tray in a short period of time.",
+          "name":"Submersible pump"
+        },
+
+        {
+          "reqImg":"https://www.trees.com/wp-content/uploads/2017/12/ebb_and_flow.jpg",
+          "step":"Setting up the Timer",
+          "description":"A timer is responsible for controlling the amount of time for the watering process. The timer goes on and off to ensure the plants receive the appropriate nutrient requirements.",
+          "name":"Timer"
+        },
+
+        {
+          "reqImg":"https://www.trees.com/wp-content/uploads/files/inline-images/Dutch-bucket-system.png",
+          "step":"Setting up the Grow Tray",
+          "description":"A container or plant bucket is essential in the system as it where the plant grows. It can be one big container/tray, or several small ones in a system. The critical function of the overflow tube is to set the level of height that the nutrient solution in the container reaches. The channel also works to ensure that the nutrient solution does not spill out of the reservoir.",
+          "name":"The Grow Tray"
+        }
+       
+      ],
+      
+      "video":"https://www.youtube.com/watch?v=8WfRmFp6vk8"
+    },
+
+
+    {
+      "id": "a4",
+      "title": "Drip Systems",
+      "description1":"A drip system is an easy-to-use hydroponic system that can be quickly altered for different types of plants, which makes this a great system for any grower who plans to make regular changes. The nutrient solution that’s used with a drip system is pumped into a tube that sends the solution straight to the plant base. At the end of each tube is a drip emitter that controls how much solution is placed into the plant. You can adjust the flow to meet the needs of each individual plant.",
+      "description2":"These systems can be as small or large as you want them to be. They can also be circulating or non-circulating systems. A circulating system will drip almost constantly. Any extra nutrients will be sent back into the tank that holds the nutrient solution. Since you can readily alter the size and flow rate of this hydroponic system, it can be used to grow practically any plant. If you decide to use a circulating system, the main problem that you’ll run into is that you’ll need to consistently maintain the fluctuating nutrient and pH levels that occur when the solution is recirculated.",
+      "images": "https://www.agrifarming.in/wp-content/uploads/2020/06/Comp4-1.jpg",
+      "setupImg": "https://growwithoutsoil.com/wp-content/uploads/2021/01/Drip-system-diagram.png",
+      "services": {},
+      "requirementsDesc":"Requirements for Setting up the Drip Systems",
+      "checked":false,
+      "video":"https://youtu.be/_lXWDF-C3B0"
+    },
+
+
+    {
+      "id": "a5",
+      "title": "N.F.T.(Nutrient Film Technology)",
+      "description1":"The N.F.T. system has a simple design but is widely used because of how well it scales to a variety of different applications. When you use one of these systems, the nutrient solution is placed into a large reservoir. From here, the solution is pumped into sloped channels that allow the excess nutrients to flow back into the reservoir. When the nutrient solution is sent into the channel, it flows down the slope and over the roots of each plant to provide the right amount of nutrients.",
+      "description2":"It’s highly recommended that you use net pots with this type of hydroponic system. In most cases, the N.F.T. system won’t make use of a grow medium. Since the channels that are used with this system are relatively small, it’s recommended that you pair it with plants that have smaller roots. Even though this system can’t readily accommodate larger plants, it does scale well, which means that you can alter it to allow for the growth of a large number of plants at the same time. Since it scales well, this system is commonly used by commercial growers alongside home growers.",
+      "images": "https://cropking.com/sites/default/files/2021-09/Greenhouses%20and%20Equipment%20%281%29.jpg",
+      "setupImg": "https://www.greengardentribe.com/wp-content/uploads/2021/07/How-to-set-up-an-NFT-System-NFT-system-guide-2021.jpg",
+      "services": {},
+      "checked":false
+    },
+
+
+    {
+      "id": "a6",
+      "title": "Aeroponic Systems",
+      "description1":"Aeroponic systems are easy-to-understand but somewhat difficult to build. With this type of system, the plants that you wish to grow will be suspended in air. A couple of mist nozzles are positioned below the plants. These nozzles will spray the nutrient solution onto the roots of each plant, which has proven to be a very effective hydroponic method. The mist nozzles are connected directly to the water pump. When the pressure increases in the pump, the solution is sprayed with any excess falling down into the reservoir below.",
+      "description2":"As long as you use the right dimensions for the reservoir, you can grow nearly all types of plants in an aeroponic system. However, the reservoir will need to be very deep if you plan on growing larger plants. Otherwise, mist nozzles may not be able to reach all of the roots. Since the plants with an aeroponic system are suspended in air, they get all the oxygen that they need. This system also uses less water than any other hydroponic system, which is great for efficiency. However, there are a couple issues with this system. For one, they can be costly to build. The nozzles that spray the nutrients might also become clogged from time to time, which can be frustrating to clean.",
+      "images": "https://nextpittsburgh.com/wp-content/uploads/2017/01/dutch-boy-aeroponics.jpg",
+      "setupImg": "https://www.maximumyield.com/images/uploads/wick-system-hydroponics-gardening.jpg",
+      "services": {},
+      "checked":false
+    }
+  ]
+}
