@@ -12,7 +12,7 @@ export const Farmsetup = () => {
     const dispatch = useDispatch()
 
     const getData = async() =>{
-        const data = await axios.get("http://localhost:4003/hydroponic")
+        const data = await axios.get("https://acmefresh.herokuapp.com/hydroponic")
     dispatch(getHydroponicData(data.data))
     }
     useEffect(() => {
