@@ -2,15 +2,21 @@ import React, { useEffect, useRef, useState } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
-import { eachProduct, getData, isChecked } from '../../Redux/Actions/Action'
+import axios from "axios"
+import { eachProduct,  isChecked, getHydroponicData } from '../../Redux/Actions/Action'
 import { Form } from './Form'
 import "./Hydroponic.css"
 export const Farmsetup = () => {
     const hydroData = useSelector((store) => store.hydroPonicStore.hydroponicProducts)
 
     const dispatch = useDispatch()
+
+    const getData = async() =>{
+        const data = await axios.get("http://localhost:4003/hydroponic")
+    dispatch(getHydroponicData(data.data))
+    }
     useEffect(() => {
-        dispatch(getData())
+        getData()
 
 
         return () => { console.log("good") }

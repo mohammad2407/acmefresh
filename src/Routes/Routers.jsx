@@ -7,7 +7,7 @@ import Homesetup from '../components/kits/Homesetup'
 import { Hydroponic } from '../components/kits/Hydroponic'
 import { SingleHydroComponent } from '../components/kits/SingleHydroComponent'
 import { Navbar } from '../components/Navigation/Navbar'
-import { Store } from '../components/store/Store'
+import {Indoor} from "../components/store/Indoor"
 export const Routers = () => {
   return (
     <div>
@@ -15,12 +15,12 @@ export const Routers = () => {
         <Routes>
             
             <Route path='/' element = {<Home />} />
-            <Route path='/store' element = {<Store />} />
             <Route path='/setups' element = {<Hydroponic />} />
             <Route path='/checkout' element = {<Checkout />} />
             <Route path='/hydroponics' element = {<Hydroponic />} />
             <Route path='/setup-kit/Farm-setup' element = {<Farmsetup />} />
             <Route path='/setup-kit/Home-setup' element = {<Homesetup />}/>
+            <Route path = '/hydroponic/indoor-setup' element = {<Indoor />} />
             <Route path = '/setup-kit/Farm-setup/:id' element = {<SingleHydroComponent />} />
         </Routes>
     </div>

@@ -35,6 +35,9 @@ export const Navbar = () => {
                             <Link to={`setup-kit/Services`}>
                                 <button>Services</button>
                             </Link>
+                            <Link to={`/hydroponic/indoor-setup`}>
+                                <button>Indoor</button> 
+                            </Link>
                         </div>
                      </div>
                     </Link> 
@@ -44,6 +47,10 @@ export const Navbar = () => {
                     <Link to={`/`}>
                        Home
                     </Link>
+                </Sections>
+
+                <Sections>
+                    
                 </Sections>
             </NavDiv>
 

@@ -33,10 +33,6 @@ export const eachProduct = (id) => async(dispatch) =>{
 
 
 
-export const getData = () => async (dispatch) => {
-    const data = await axios.get("http://localhost:4003/hydroponic")
-    dispatch(getHydroponicData(data.data))
-}
 
 
 
