@@ -23,7 +23,6 @@ export const HydroPonicReducer = (store = initialStore, { type, payload }) => {
         if (item.id == payload) {
           console.log(true)
         }
-        // console.log(updatedData)
         return {
           ...store,
           hydroponicProducts: updatedData

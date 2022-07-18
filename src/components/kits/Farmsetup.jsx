@@ -8,7 +8,6 @@ import "./Hydroponic.css"
 export const Farmsetup = () => {
     const hydroData = useSelector((store) => store.hydroPonicStore.hydroponicProducts)
 
-    // const [ischecked, setChecked] = useState(false)
     const dispatch = useDispatch()
     useEffect(() => {
         dispatch(getData())
@@ -18,21 +17,6 @@ export const Farmsetup = () => {
     }, [])
     console.log(hydroData)
 
-    // const display = (event) =>{
-    //     // if ( event.target.checked){
-    //     //     setChecked(true)
-    //     // }
-    //     // else{
-    //     //     setChecked(false)
-    //     // }
-    //     console.log(event)
-    //     // var savebtn = document.getElementById("savebtn");
-    //     // if (event.target.checked == true){
-    //     //   savebtn.style.display = "block";
-    //     // } else {
-    //     //    savebtn.style.display = "none";
-    //     // }
-    // }
 
     return (
         <div style={{marginTop:"140px"}}>
@@ -41,7 +25,7 @@ export const Farmsetup = () => {
         </div>
             {
                 hydroData.map((product) => {
-                    const { images, title, description1, description2, id } = product;
+                    const { images, title, description1, id } = product;
                     return (
                         <>
 

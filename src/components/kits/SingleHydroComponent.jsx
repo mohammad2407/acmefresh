@@ -85,7 +85,6 @@ const Title = styled.div`
 const Body = styled.div`
     width:80%;
     margin:auto;
-    /* border:1px solid black; */
 
 `
 const Description = styled.div`
