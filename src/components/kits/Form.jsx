@@ -15,11 +15,12 @@ export const Form = () => {
         <input type="text" placeholder='' />
       </InputDiv>
 
-        
+        <div>
         <select>
           <option value="">Outdoor Setup</option>
           <option value="Indoor">Indoor Setup</option>
         </select>
+        </div>
         <div>
 
           <select >

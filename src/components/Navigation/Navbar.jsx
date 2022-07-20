@@ -10,7 +10,7 @@ export const Navbar = () => {
 
 
                 <Sections>
-                    <Link to={`/checkout`}>
+                    <Link className='link-tag' to={`/checkout`}>
                         Checkout
                     </Link>
                 </Sections>
@@ -21,21 +21,21 @@ export const Navbar = () => {
                      <div className='dropdown'>
                         <button className='dropbtn'> Store</button>
                         <div className='dropdown-content'>
-                          <Link to={`/hydroponics`}>
+                          <Link className='link-tag' to={`/hydroponics`}>
                           <button> Hydroponics </button>
                             </Link> 
-                            <Link to={`/setup-kit/Farm-setup`}>
+                            <Link className='link-tag' to={`/setup-kit/Farm-setup`}>
                                 <button>Farm Setup</button>
                             </Link>
 
-                            <Link to={`setup-kit/Home-setup`}>
+                            <Link className='link-tag' to={`setup-kit/Home-setup`}>
                                 <button>Home Setup</button>
                             </Link>
 
-                            <Link to={`setup-kit/Services`}>
+                            <Link className='link-tag' to={`setup-kit/Services`}>
                                 <button>Services</button>
                             </Link>
-                            <Link to={`/hydroponic/indoor-setup`}>
+                            <Link className='link-tag' to={`/hydroponic/indoor-setup`}>
                                 <button>Indoor</button> 
                             </Link>
                         </div>
@@ -44,14 +44,11 @@ export const Navbar = () => {
                 </Sections>
 
                 <Sections>
-                    <Link to={`/`}>
+                    <Link className='link-tag' to={`/`} style = {{textDecoration:"none"}}>
                        Home
                     </Link>
                 </Sections>
 
-                <Sections>
-                    
-                </Sections>
             </NavDiv>
 
         </div>
@@ -61,7 +58,7 @@ export const Navbar = () => {
 
 const NavDiv = styled.div`
     width:100%;
-    height:120px;
+    height:80px;
     position:fixed;
     background: #e4fdcdfa;
     top:-0px;
@@ -75,5 +72,11 @@ const Sections = styled.div`
     width:13%;
     padding:2%;
     border-right:1px solid gray;
+    & Link {
+        text-decoration: none;
+    };
 
+    :hover {
+     background-color: rgb(205, 240, 160);
+    }
 `

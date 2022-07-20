@@ -47,23 +47,24 @@ export const SingleHydroComponent = () => {
 
             <Requirements >
                 {
-                    !listData ? <div>...Loading</div>:
-                    listData.map((item) => {
-                        return <>
-                            <div>
-                                <ul>
-                                    <Li>
+                    !listData ? <div>...Loading</div> :
+                        listData.map((item) => {
+                            return <>
+                                <div>
+                                    <ul>
+                                        <Li>
+
                                             <div> <h3>{item.step}</h3></div>
                                             <RequirementImg>
-                                            <img src={item.reqImg} alt="" />
+                                                <img src={item.reqImg} alt="" />
                                             </RequirementImg>
-                                        {item.description}
-                                       
-                                    </Li>
-                                </ul>
-                            </div>
-                        </>
-                    })
+                                            {item.description}
+
+                                        </Li>
+                                    </ul>
+                                </div>
+                            </>
+                        })
                 }
 
             </Requirements>

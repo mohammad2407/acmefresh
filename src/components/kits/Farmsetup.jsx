@@ -30,6 +30,7 @@ export const Farmsetup = () => {
           <h2>Things You should know Before buying.</h2>
         </div>
             {
+                !hydroData ?  <div>....loading</div> :
                 hydroData.map((product) => {
                     const { images, title, description1, id } = product;
                     return (

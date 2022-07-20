@@ -26,7 +26,8 @@ export const singlePage = (product) =>{
 }
 
 export const eachProduct = (id) => async(dispatch) =>{
-        const singleProduct = await axios.get(`http://localhost:4003/hydroponic/${id}`)
+        
+        const singleProduct = await axios.get(`https://acmefresh.herokuapp.com/hydroponic/${id}`)
         dispatch(singlePage(singleProduct.data))
 }
 
